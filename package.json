@@ -1,0 +1,18 @@
+{
+  "name": "ts_sync",
+  "version": "1.0.0",
+  "main": "sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "external-editor": "^3.1.0"
+  }
+}
